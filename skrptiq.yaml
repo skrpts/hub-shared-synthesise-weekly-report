@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "d3a5b125-baf6-4a76-bf91-c970f4b593a9"
+name: "synthesise-weekly-report"
+display_name: "Report Synthesis"
+description: "Produces a stakeholder-ready weekly report from the activity analysis"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-synthesise-weekly-report"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
