@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "d3a5b125-baf6-4a76-bf91-c970f4b593a9"
+id: "4395af8b-0299-4f00-86d0-7eef8c02113d"
 name: "synthesise-weekly-report"
 display_name: "Report Synthesis"
 description: "Produces a stakeholder-ready weekly report from the activity analysis"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
