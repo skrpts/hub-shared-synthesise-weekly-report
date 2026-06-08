@@ -3,7 +3,7 @@ id: "4395af8b-0299-4f00-86d0-7eef8c02113d"
 name: "synthesise-weekly-report"
 display_name: "Report Synthesis"
 description: "Produces a stakeholder-ready weekly report from the activity analysis"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "skill"
+dependencies: []
+
 contents:
   skills: 1
   prompts: 0
